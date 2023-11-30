@@ -12,8 +12,8 @@ Our dataset is from https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound
 
 ### Methods
 
-\ Logistic Regression
-\ Naïve Bayes
-\ Support Vector Machine
-\ Decision Tree and Random Forest
-\ Deep Learning Methods
+- \ Logistic Regression
+- \ Naïve Bayes
+- \ Support Vector Machine
+- \ Decision Tree and Random Forest
+- \ Deep Learning Methods
