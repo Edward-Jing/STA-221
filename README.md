@@ -19,7 +19,7 @@ Our dataset is from https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound
 -  Deep Learning Methods (https://github.com/Raidriar-Dai/23sp-AI-few-shot-learning-project)
 
 ### Sturcture of Files
-
+- nb: Naïve Bayes
 - rf: Random Forest
 - Rawdata: data without mask
 - new: data with masked
