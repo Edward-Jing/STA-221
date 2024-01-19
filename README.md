@@ -12,10 +12,12 @@ Our dataset is from https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound
 
 ### Methods
 
+By Xiaowei zeng, Pengyu Chen and Jingzhi Sun
 -  Logistic Regression
 -  Naïve Bayes
 -  Support Vector Machine
 -  Decision Tree and Random Forest
+By Qinrun Dai
 -  Deep Learning Methods (https://github.com/Raidriar-Dai/23sp-AI-few-shot-learning-project)
 
 ### Sturcture of Files
