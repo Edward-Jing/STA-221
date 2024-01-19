@@ -16,7 +16,8 @@ By Xiaowei zeng, Pengyu Chen and Jingzhi Sun
 -  Logistic Regression
 -  Naïve Bayes
 -  Support Vector Machine
--  Decision Tree and Random Forest
+-  Decision Tree and Random Forest  
+
 By Qinrun Dai
 -  Deep Learning Methods (https://github.com/Raidriar-Dai/23sp-AI-few-shot-learning-project)
 
